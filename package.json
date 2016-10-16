@@ -11,9 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.0",
+    "css-loader": "^0.25.0",
     "react": "^15.3.2",
+    "react-addons-css-transition-group": "^15.3.2",
     "react-dom": "^15.3.2",
-    "react-router": "^2.8.1"
+    "react-router": "^2.8.1",
+    "style-loader": "^0.13.1"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
